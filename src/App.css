@@ -13,4 +13,7 @@ html {
 
 body {
   box-sizing: border-box;
+  /* background-color: #2D2D2A; */
+  height: 100vh;
+  border: 20px solid #f6aa1c;
 }
